@@ -3,12 +3,6 @@
 Created on Thu Oct 15 22:50:49 2020
 
 @author: markr
-
-1 = path
-0 = wall
-2 = visited
-
-maze[h][w]
 """
 
 from PIL import Image
